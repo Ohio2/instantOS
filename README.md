@@ -16,7 +16,8 @@
 ![Discord](https://img.shields.io/discord/683782260071071764)
 ![Maintenance](https://img.shields.io/maintenance/yes/2020)
 
-instantOS is an Arch based distro that works out of the box but is still aimed at power users. 
+instantOS is an Arch based distro that works out of the box but is still aimed at power users.
+That also offers an manjaro kernel apparently.
 
 ## [website](https://instantos.github.io)
 
